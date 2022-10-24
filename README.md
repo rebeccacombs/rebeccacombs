@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebeccacombs
 - 👀 I’m a Duke/DKU CS Major interested in software engineering, web development, and data science. 
-- 🌱 I’m currently learning C and Node.js. 
+- 🌱 I’m currently learning Python, React, and Firebase.
 - 💞️ I’m looking to collaborate on software/web development projects and computational genomics research. 
 
 <!---
