@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @rebeccacombs
-- 👀 I’m a Duke/DKU CS Major interested in software engineering, web development, and data science. 
-- 🌱 I’m currently learning Python, React, and Firebase.
-- 💞️ I’m looking to collaborate on software/web development projects and computational genomics research. 
+hi, i’m rebecca (she/her)
+
+cs@[duke](https://duke.edu/)+[dku](https://www.dukekunshan.edu.cn/)'25
+
+webdev ([next](https://github.com/vercel/next.js)/[solid](https://github.com/solidjs/solid)), linux ([rhel](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9)/[arch](https://archlinux.org/)), datasci (AI/ML)
+
+<3 open source & computational genomics
+
+check out my [cool website](https://rebeccacombs.org/) 
+
+:)
 
 <!---
 rebeccacombs/rebeccacombs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
